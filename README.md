@@ -1,2 +1,3 @@
 # waploaj-app
-this is the firs app that am repo on github
+the whole project would be relaunched.
+we start all from scratch
